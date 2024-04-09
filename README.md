@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/cplusplus-FF4154?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/c++-FF4154?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
 </div>
