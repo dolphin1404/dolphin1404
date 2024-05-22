@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">My page</h3>
 <div align="center">
   <a href="https://www.instagram.com/kyumini0112/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kyumin-lee-02680a273/" target="_blank"><img src="https://img.shields.io/badge/linkedin-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kyumin-lee-02680a273/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0E76A8?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 <h3 align="center">📚 🌱 Currently learning 🌱 📚</h3>
 <div align="center">
