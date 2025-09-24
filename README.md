@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dolphin1404&show_icons=true&theme=radical)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolphin1404&hide=javascript,html,CSS&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolphin1404&langs_count=8&hide=jupyter%20notebook,javascript,html,CSS&layout=compact)
   
 </div>
 <h3 align="center">My page</h3>
